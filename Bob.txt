@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Hi! im Bob i've been here for a while now.
-=======
-Hi! im Bobby i'm new here
->>>>>>> bobby_branch
